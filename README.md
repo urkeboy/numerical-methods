@@ -11,21 +11,27 @@ Homework/project in **Numerical Analysis and Discrete Mathematics (13E082NAD)** 
 * a) forward divided difference method
 * b) backward divided difference method
 * c) central divided difference method.
+
 ![differentiation](Charts/differentiation.png)
 
 The error of these numerical methods are also given below:
+
 ![differentiation_error](Charts/differentiation_error.png)
 
 ### Numerical integration
 
 ```trapez.m``` provides a MATLAB script to calculate the definite integral of the given function using the trapezoidal rule.
+
 ![simpson](Charts/simpson.png)
 
 The error for variable interval width is also given below:
+
 ![differentiation_error](Charts/differentiation_error.png)
 
 ```simpson.m``` provides a MATLAB script to calculate the definite integral of the given function using the Simpson's rule.
+
 ![trapeze](Charts/trapeze.png)
 
 The error for variable interval width is also given below:
+
 ![trapeze_error](Charts/trapeze_error.png)
