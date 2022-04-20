@@ -20,7 +20,7 @@ The error of these numerical methods are also given below:
 
 ### Numerical integration
 
-```trapez.m``` provides a MATLAB script to calculate the definite integral of the given function using the trapezoidal rule.
+```simpson.m``` provides a MATLAB script to calculate the definite integral of the given function using the Simpson's rule.
 
 ![simpson](Charts/simpson.png)
 
@@ -28,7 +28,7 @@ The error for variable interval width is also given below:
 
 ![differentiation_error](Charts/differentiation_error.png)
 
-```simpson.m``` provides a MATLAB script to calculate the definite integral of the given function using the Simpson's rule.
+```trapez.m``` provides a MATLAB script to calculate the definite integral of the given function using the trapezoidal rule.
 
 ![trapeze](Charts/trapeze.png)
 
